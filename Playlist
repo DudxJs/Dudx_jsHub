@@ -1,0 +1,16 @@
+local soundList = {
+    {Name = "Cheiro de Karolina", ID = 123456789, Genre = "Forro"},
+    {Name = "Dançando Forrl", ID = 987654321, Genre = "Forro"},
+    {Name = "Baile de Favela", ID = 112233445, Genre = "Funk"},
+    {Name = "Vai Novinha", ID = 554433221, Genre = "Funk"},
+    {Name = "DRIFTING", ID = 998877665, Genre = "Phonk"},
+    {Name = "MURDER IN MY MIND", ID = 121212121, Genre = "Phonk"},
+    {Name = "Música Aleatória 1", ID = 334455667, Genre = "Outras"},
+    {Name = "Amor corporativo", ID = 110728006881424, Genre = "Forro"},
+    {Name = "Forró ja Cansou", ID = 74812784884330, Genre = "Forro"},
+    {Name = "Coração na Estrada", ID = 85224974973485, Genre = "Forro"},
+    {Name = "Lembro até hoje", ID = 71531533552899, Genre = "Forro"},
+    {Name = "Meu Coração é Regador", ID = 102705292327383, Genre = "Forro"},
+    {Name = "Escolha certa", ID = 107088620814881, Genre = "Forro"},
+}
+return soundList
